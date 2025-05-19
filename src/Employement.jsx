@@ -77,7 +77,7 @@ const Employement = () => {
           style={{ marginTop: '20px', textAlign: 'center' }}
         >
           <button onClick={goToPrevPage} disabled={currentPage === 1}>
-            Prev
+           Previous
           </button>
           <span
             style={{
